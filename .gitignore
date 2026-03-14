@@ -1,0 +1,23 @@
+# Tableau temporary files
+*.twb~
+*.twbx~
+*.twb.bak
+
+# Windows junk files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Mac junk files
+.DS_Store
+
+# System files
+*.log
+*.tmp
+*.temp
+
+# Folder settings
+ehthumbs.db
+
+# VS Code settings (if you use it)
+.vscode/
