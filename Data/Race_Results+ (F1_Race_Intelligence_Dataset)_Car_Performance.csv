@@ -1,0 +1,37 @@
+﻿Downforce Level,Driver Name (Car!Performance),Perf ID,Power Unit Mode,Race Name (Car!Performance),Team (Car!Performance),Avg Speed kmh,Qualifying Time s,Race Pace s,Season (Car!Performance),Sector1 Advantage s,Sector2 Advantage s,Sector3 Advantage s,Top Speed kmh
+High,Lewis Hamilton,1,Standard,British Grand Prix,Mercedes-AMG,214,80.146,83.27,2021,-0.041,-0.113,-0.044,339.5
+High,Max Verstappen,2,Power Saving,British Grand Prix,Red Bull Racing,216.9,80.332,82.84,2021,-0.07,-0.04,-0.06,342.5
+High,Charles Leclerc,3,Power Saving,British Grand Prix,Scuderia Ferrari,216.2,80.322,83.488,2021,-0.071,-0.083,-0.068,338.5
+High,Sergio Perez,4,Standard,British Grand Prix,Red Bull Racing,218.1,80.31,83.067,2021,-0.024,-0.089,-0.013,342.2
+Medium,Lando Norris,5,Standard,British Grand Prix,McLaren,210,81.016,84.086,2021,0.051,-0.041,-0.011,334.8
+High,Carlos Sainz,6,Standard,British Grand Prix,Scuderia Ferrari,215.7,80.791,83.577,2021,-0.046,-0.099,-0.06,343.3
+High,Lewis Hamilton,7,Performance,Belgian Grand Prix,Mercedes-AMG,211.3,80.226,83.265,2021,-0.046,-0.073,-0.083,337.1
+High,Max Verstappen,8,Standard,Belgian Grand Prix,Red Bull Racing,217.8,79.905,82.901,2021,-0.047,-0.123,-0.019,342.9
+High,Charles Leclerc,9,Performance,Belgian Grand Prix,Scuderia Ferrari,216,80.481,83.669,2021,-0.029,-0.036,-0.066,338.2
+High,Sergio Perez,10,Performance,Belgian Grand Prix,Red Bull Racing,218.1,79.986,83.068,2021,-0.063,-0.096,-0.04,344.7
+Medium,Lando Norris,11,Standard,Belgian Grand Prix,McLaren,208.2,80.809,83.819,2021,-0.004,-0.014,0.003,333.6
+High,Carlos Sainz,12,Performance,Belgian Grand Prix,Scuderia Ferrari,216.1,80.743,83.55,2021,-0.03,-0.045,-0.053,338.6
+High,Lewis Hamilton,13,Performance,Dutch Grand Prix,Mercedes-AMG,213.7,80.063,83.299,2022,-0.059,-0.067,-0.002,337.9
+High,Max Verstappen,14,Power Saving,Dutch Grand Prix,Red Bull Racing,219.9,80.043,83.145,2022,-0.095,-0.051,-0.086,343.2
+High,Charles Leclerc,15,Standard,Dutch Grand Prix,Scuderia Ferrari,215.1,80.774,83.532,2022,0.011,-0.107,0.01,341.3
+High,Sergio Perez,16,Standard,Dutch Grand Prix,Red Bull Racing,218.6,80.129,82.961,2022,-0.076,-0.067,-0.067,345.2
+Medium,Lando Norris,17,Standard,Dutch Grand Prix,McLaren,209.1,80.953,83.992,2022,0.02,-0.065,0.012,336.6
+High,Carlos Sainz,18,Performance,Dutch Grand Prix,Scuderia Ferrari,214.9,80.312,83.304,2022,0.016,-0.06,-0.074,338.8
+High,Lewis Hamilton,19,Power Saving,Bahrain Grand Prix,Mercedes-AMG,214.7,80.233,83.155,2023,-0.014,-0.091,-0.081,339.1
+High,Max Verstappen,20,Performance,Bahrain Grand Prix,Red Bull Racing,218.5,80.154,83.198,2023,-0.008,-0.12,-0.04,347.3
+High,Charles Leclerc,21,Power Saving,Bahrain Grand Prix,Scuderia Ferrari,216,80.569,83.392,2023,0.004,-0.064,-0.071,339.1
+High,Sergio Perez,22,Standard,Bahrain Grand Prix,Red Bull Racing,219.2,80.036,82.943,2023,-0.096,-0.074,-0.082,343.6
+Medium,Lando Norris,23,Power Saving,Bahrain Grand Prix,McLaren,209.8,81.189,83.965,2023,-0.009,-0.074,0.008,335.2
+High,Carlos Sainz,24,Standard,Bahrain Grand Prix,Scuderia Ferrari,215.7,80.446,83.641,2023,0.006,-0.027,-0.07,338.1
+High,Lewis Hamilton,25,Power Saving,Monaco Grand Prix,Mercedes-AMG,213.9,80.505,83.105,2021,-0.037,-0.113,-0.092,335.3
+High,Max Verstappen,26,Performance,Monaco Grand Prix,Red Bull Racing,216.6,80.327,82.855,2021,-0.067,-0.088,-0.094,347.5
+High,Charles Leclerc,27,Power Saving,Monaco Grand Prix,Scuderia Ferrari,213,80.657,83.418,2021,-0.023,-0.077,-0.032,340.6
+High,Sergio Perez,28,Standard,Monaco Grand Prix,Red Bull Racing,219.6,80.268,83.146,2021,-0.061,-0.031,-0.025,346.6
+Medium,Lando Norris,29,Power Saving,Monaco Grand Prix,McLaren,209.3,81.026,84.095,2021,-0.007,-0.079,-0.023,332.7
+High,Carlos Sainz,30,Performance,Monaco Grand Prix,Scuderia Ferrari,216.2,80.554,83.665,2021,0.018,-0.066,-0.089,339.2
+High,Lewis Hamilton,31,Standard,Italian Grand Prix,Mercedes-AMG,212.5,80.495,83.272,2021,-0.057,-0.1,-0.036,335.5
+High,Max Verstappen,32,Performance,Italian Grand Prix,Red Bull Racing,217.8,80.104,82.998,2021,-0.007,-0.075,-0.079,342.7
+High,Charles Leclerc,33,Performance,Italian Grand Prix,Scuderia Ferrari,214.7,80.743,83.447,2021,-0.05,-0.031,-0.063,341.3
+High,Sergio Perez,34,Standard,Italian Grand Prix,Red Bull Racing,217.8,80.171,82.859,2021,-0.081,-0.123,-0.078,345.3
+Medium,Lando Norris,35,Standard,Italian Grand Prix,McLaren,208.5,81.146,84.148,2021,0.009,0.007,-0.064,333.5
+High,Carlos Sainz,36,Power Saving,Italian Grand Prix,Scuderia Ferrari,214.8,80.422,83.691,2021,-0.063,-0.06,-0.017,338.2
